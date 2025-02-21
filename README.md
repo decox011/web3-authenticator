@@ -12,7 +12,7 @@ Web3 Authenticator is an open-source application for two-factor authentication (
 ## 🛠️ Technologies Used
 - **Backend**: Node.js, Express, Ethers.js
 - **Frontend**: React Native (Expo)
-- **Blockchain**: Ethereum, Polygon, Binance Smart Chain
+- **Blockchain**: EVM blockchains
 
 ## 📦 Project Structure
 ```
@@ -48,9 +48,8 @@ We welcome contributions! If you want to collaborate:
 Web3 Authenticator is released under the **MIT License**.
 
 ## 📩 Contact
-- Email: your@email.com
-- Telegram: @your_username
-- Twitter: [@your_username](https://twitter.com/your_username)
+- Email: luca.decastro1992@gmail.com
+- Telegram: @Decox09
 
 ---
 
